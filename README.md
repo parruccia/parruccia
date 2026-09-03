@@ -24,15 +24,15 @@ Desarrollador Full Stack freelance, próximo a recibirme de la Tecnicatura en Pr
 
 ### 🍽️ [KAPÉ](https://github.com/parruccia/KAPE_Lomitos)
 Vendido a un cliente real, en uso diario desde mayo 2026. Panel de administración propio para que el negocio gestione productos, precios y pedidos sin depender de un desarrollador, integración con WhatsApp para generar el pedido automáticamente, y manejo de errores y casos límite (fallas de conexión, datos inválidos, horarios fuera de atención) para que ningún pedido se pierda.
-`JavaScript` `Supabase` `Cloudflare`
+`JavaScript` `Supabase` `HTML` `CSS` `Cloudflare`
 
 ### 🧾 [Comanditas](https://github.com/parruccia/comandita.app-demo) — Producto propio, nacido de KAPÉ
 Después de vender KAPÉ, le puse nombre e identidad propia a ese tipo de sistema para venderlo como producto, no como "un desarrollo más". Armé una demo pública que cualquier dueño de negocio gastronómico puede tocar y probar libremente antes de hablar de presupuesto — la idea es sacar toda la fricción de la venta: primero prueban, después conversamos.
-`JavaScript` `Cloudflare Pages`
+`JavaScript` `Supabase` `HTML` `CSS` `Cloudflare`
 
 ### 🐾 [Plataforma de gestión y adopción de animales](https://github.com/parruccia/refugioAnimales)
 Sistema pensado para que cualquier refugio de animales pueda usarlo: catálogo de adopción con filtros por edad, sexo y tamaño, y panel de administración completo para gestionar publicaciones.
-`JavaScript` `TypeScript` `React` `Supabase` `Cloudflare`
+`JavaScript` `Supabase` `Cloudflare`
 
 ### 🛒 [E-commerce "Bodypainting"](https://github.com/josepani299/MetodologiaDeSistemasII) — Trabajo académico
 Backend de una plataforma de e-commerce, desarrollado en equipo (Grupo 4, SCRUM, 3 sprints) como Trabajo Práctico Integrador de Metodología de Sistemas II (UTN FRVM). Incluye autenticación por JWT con control de acceso por rol, catálogo dinámico con cálculo automático de stock, y automatizaciones con IA (n8n + Groq LLaMA 3.3) para reposición sugerida de stock y envío de emails de confirmación.
