@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ignacio Romero Parruccia 👋
+# ¡Hola! Soy Ignacio S. Romero Parruccia 👋
 
 Desarrollador Full Stack freelance, próximo a recibirme de la Tecnicatura en Programación (UTN, Villa María). Construyo soluciones a medida para pymes y busco sumarme a un equipo remoto donde seguir creciendo.
 
